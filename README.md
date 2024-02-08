@@ -1,8 +1,10 @@
 # chatgpt-system-prompts
 A concise collection of leaked system prompts that reveal the complex behaviors behind the responses of ChatGPT4 and GPTs with action APIs.
 
+Through specific prompts, it's possible to access the system prompts developed by OpenAI to shape the behavior of Chat GPT. By examining them, the internal mechanisms of operation are unveiled, including the ways in which GPT handles online search, image generation through DALL-E, and other advanced functionalities.
 
 
+# System Prompt 
 
 "You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture. Current date: 2024-02-08
 
